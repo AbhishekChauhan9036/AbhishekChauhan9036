@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/@abhishe9036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishe9036" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-chauhan-10b4991b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-chauhan-10b4991b8" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abhishek chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishek chauhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucip8nhnbc6xphva7wslkuag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucip8nhnbc6xphva7wslkuag" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishekchauha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekchauha22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishekchauhan9036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekchauhan9036" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhishekchauhan9036/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekchauhan9036/profile" height="30" width="40" /></a>
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekchauhan9036&show_icons=true&locale=en" alt="abhishekchauhan9036" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchauhan9036&" alt="abhishekchauhan9036" /></p>
-
