@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekchauhan9036" alt="abhishekchauhan9036" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abhishe9036" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishe9036?logo=twitter&style=for-the-badge" alt="@abhishe9036" /></a> </p>
+
 
 - 📫 How to reach me **abhishekchauhan9036@gmail.com**
 
