@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
-<h3 align="center">I have a confession to make - I'm not a rock star programmer. Nor I am a hacker. I don't know what everyone thinks about me. Nobody has ever called me a wizard. Still, I take pride in the fact that I'm a good, solid programmer. One who works hard at his craft and really enjoys it.Other than this, I love Music....</h3>
+<h3 align="center">I am Full Stack Developer based in India along with that I'm a great Competitive Programmer in the word. I have Completed Bachelor of Computer Application from SVSU. I am very passionate about improving my coding skills & developing applications & websites. I build WebApps and Websites using MERN Stack. Working for myself to improve my skills. Love to Participate Coding Contest at different online judges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchauhan9036&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchauhan9036" /> </p>
 
