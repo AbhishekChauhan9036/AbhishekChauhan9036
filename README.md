@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
-<h3 align="center">Full Stack Developer from India and a skilled Competitive Programmer. Completed MCA from JS University. Passionate about coding, building MERN stack WebApps, and participating in coding contests. Constantly improving my skills...</h3>
+
+<h3 align="center">
+Software Engineer | Assistant Professor | Competitive Programmer
+</h3>
+
+<p align="center">
+I am a passionate Software Engineer with strong expertise in designing and developing scalable web applications using the MERN stack. I have completed my Master's degree from JS University and actively participate in competitive programming, constantly striving to write optimized, clean, and efficient code.
+</p>
+
+<p align="center">
+Alongside my industry experience, I work as an Assistant Professor, where I enjoy teaching, mentoring students, and sharing my knowledge of Computer Science, Data Structures, and modern software development practices. I strongly believe in continuous learning, problem-solving, and building impactful real-world projects.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchauhan9036&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchauhan9036" /> </p>
 
