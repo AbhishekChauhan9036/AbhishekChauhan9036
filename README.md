@@ -1,4 +1,4 @@
-can your re-write and formate entire code in unique formate of this change intro in human and short formate  <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
 
 <h3 align="center">
 Software Engineer | Assistant Professor | Competitive Programmer
