@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
+<h1 align="center">Hi 👋, I'm अbhiṣekaḥ Chauhan</h1>
 <h3 align="center">
 Software Engineer | Assistant Professor | Competitive Programmer
 </h3>
