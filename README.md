@@ -27,7 +27,8 @@ I enjoy building scalable applications, solving complex problems, and mentoring 
 </a>
 
 <a href="https://www.codechef.com/users/abhishek_9036" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/en/7/7b/CodeChef_logo.svg" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg"
+       style="filter: invert(1);" height="30" width="40"/>
 </a>
 
 <a href="https://www.leetcode.com/abhishekchauhan9036" target="_blank">
