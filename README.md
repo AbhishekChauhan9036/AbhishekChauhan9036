@@ -25,7 +25,8 @@ I enjoy building scalable applications, working with decentralized systems, anal
 ## 👨‍💻 Coding Profiles
 <p align="left">
 <a href="https://www.codechef.com/users/abhishek_9036" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg"
+       style="filter: invert(1);" height="30" width="40"/>
 </a>
 <a href="https://www.leetcode.com/abhishekchauhan9036" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
